@@ -1,1 +1,1 @@
-# Real Time Gun Detecting in CCTV footage with Machine Learning 
+# Real Time Gun Detectiong in CCTV Footage with Machine Learning 
